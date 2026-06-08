@@ -64,7 +64,7 @@ fun SizePositionAnimationScreen() {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Button(onClick = { isExpanded = !isExpanded }) {
-            Text("Mueve y Cambiar el tamaño")
+            Text("Mueve y Cambiar el tamaño!")
         }
 
         Box(
